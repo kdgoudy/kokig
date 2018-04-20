@@ -9,4 +9,6 @@ p {
 
 body {
    background-image: url("https://i.imgur.com/J0xPaDy.png");
+   background-repeat: no-repeat;
+   background-size: auto;
 }
