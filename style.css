@@ -6,5 +6,6 @@ p{
 }
 
 body {
-   background-image: url("https://i.imgur.com/sOKZbBw.jpg");
+  background-image: url("https://i.imgur.com/sOKZbBw.jpg");
+  padding: 40px;
   }
